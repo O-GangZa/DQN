@@ -18,5 +18,4 @@
 ![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
 
 ## 결과 GIF
-
-![Uploading 00007_eps_test_gif_.gif…]()
+![KakaoTalk_20220608_105933650](https://user-images.githubusercontent.com/96896665/172556914-95015cc3-0349-46a6-bd27-5c9363cac509.gif)
