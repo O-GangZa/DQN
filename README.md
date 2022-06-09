@@ -91,4 +91,13 @@ https://padlet.com/tmsk0711/ogangza_parametertuning
 
 
 ## 결과 GIF
-![KakaoTalk_20220608_105933650](https://user-images.githubusercontent.com/96896665/172556914-95015cc3-0349-46a6-bd27-5c9363cac509.gif)
+
+###### 우리 마음 모르던 강자..🥺🥺🥺
+아이템만 피해간다. 😇😇😇😇😇 <br>
+![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
+ 
+ <br>
+ 
+###### 우리 강자가 달라졌어요!🧡
+  
+![ddd](https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif)
