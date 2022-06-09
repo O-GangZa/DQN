@@ -72,7 +72,13 @@ Target Network : 안정적으로 loss를 계산해서 파라미터 θ를 업데�
 
 <!-- ![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
  -->
-![image](https://user-images.githubusercontent.com/96896665/172665261-3409a3d4-1839-4973-8e1d-f4319b01dbce.png)
+
+![image](https://user-images.githubusercontent.com/80737049/172749136-48105432-9b64-42f1-95bd-3685521c9613.png)
+
+Trial & error를 이용하여 하이퍼 파라미터를 찾았습니다. 위와 같이 한가지 요소만 변경해보며, 어떤 하이퍼파라미터가 가장 큰 영향을 주는지 알아보았습니다.
+그 실험했던 로그들은 아래 홈페이지에서 확인해 보실 수 있습니다 🤗🤗
+
+https://padlet.com/tmsk0711/ogangza_parametertuning
 
 ## 문제 해결 접근방법
 ![image](https://user-images.githubusercontent.com/96896665/172665424-fb3418a9-df56-4027-998d-16953390b65d.png)
