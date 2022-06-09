@@ -68,7 +68,14 @@ Target Network : 안정적으로 loss를 계산해서 파라미터 θ를 업데�
 
 ![image](https://user-images.githubusercontent.com/96896665/172665792-fba90ae3-ceae-431d-96fb-96b6edce2e54.png)
 
+기존의 모델에 비해, 학습이 종료되는 경우를 더 줄여주었습니다. 이를 통해 강자가 그리드 월드를 방방 곡곡 좀 더 자유롭게 돌아다닐 수 있었고 학습 개선에 긍정적인 영향을 주었다고 생각합니다.
+
+여기서 최대 이동할 수 있는 수를 200으로 제한하였습니다. 강자가 돌아다닐 수 있는 그리드 월드 칸 수가 53칸인데, 200이란 수는 4번이나 왕복할 수있는 수입니다. 이 이상 왕복 하는 것은 강자가 학습이 제대로 이루어 지는 것이 아니기 때문에, 학습을 강제로 종료 시켰습니다.
+
 ![image](https://user-images.githubusercontent.com/96896665/172664834-02788c86-37d1-4836-b1ab-b31a8f056b3b.png)
+
+action masking은 특정 좌표에 있을때 무조건 이동하는 방향을 정해둔 것이고, move block은 선반 사이는 움직일 수 없다는 현실을 반영해서 추가했습니다.
+
 
 <!-- ![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
  -->
