@@ -70,8 +70,8 @@ Target Network : 안정적으로 loss를 계산해서 파라미터 θ를 업데�
 
 ![image](https://user-images.githubusercontent.com/96896665/172664834-02788c86-37d1-4836-b1ab-b31a8f056b3b.png)
 
-![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
-
+<!-- ![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
+ -->
 ![image](https://user-images.githubusercontent.com/96896665/172665261-3409a3d4-1839-4973-8e1d-f4319b01dbce.png)
 
 ## 문제 해결 접근방법
