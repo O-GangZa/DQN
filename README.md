@@ -72,8 +72,7 @@ Target Network : 안정적으로 loss를 계산해서 파라미터 θ를 업데�
 
 <!-- ![image](https://user-images.githubusercontent.com/96896665/172500258-a5c05c51-3200-49b9-9f2e-e806a3e33170.png)
  -->
-
-![image](https://user-images.githubusercontent.com/80737049/172749375-3d4eac9e-2536-4167-a81f-cb5a8fc9e368.png)
+<img src="https://user-images.githubusercontent.com/80737049/172749375-3d4eac9e-2536-4167-a81f-cb5a8fc9e368.png" width="30%" height="30%">
 
 Trial & error를 이용하여 하이퍼 파라미터를 찾았습니다. 위와 같이 한가지 요소만 변경해보며, 어떤 하이퍼파라미터가 가장 큰 영향을 주는지 알아보았습니다.
 그 실험했던 로그들은 아래 페이지에서 확인해 보실 수 있습니다 🤗🤗
